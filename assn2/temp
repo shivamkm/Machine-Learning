@@ -1,0 +1,66 @@
+f=0.05
+Total time taken is 10.924901 seconds 
+prec@1: 0.817 prec@3: 0.692 prec@5: 0.591
+mprec@1: 3.563e-03 mprec@3: 2.192e-02 mprec@5: 4.576e-02
+modelsize = 91M
+
+f=0.065
+Total time taken is 11.274142 seconds 
+prec@1: 0.822 prec@3: 0.694 prec@5: 0.592
+mprec@1: 3.632e-03 mprec@3: 2.285e-02 mprec@5: 4.586e-02
+modelsize=70M
+
+f=0.07
+Total time taken is 10.907695 seconds 
+prec@1: 0.818 prec@3: 0.690 prec@5: 0.591
+mprec@1: 3.614e-03 mprec@3: 2.169e-02 mprec@5: 4.587e-02
+modelsize  = 64M
+
+f = 0.072
+Total time taken is 10.479619 seconds 
+prec@1: 0.822 prec@3: 0.694 prec@5: 0.592
+mprec@1: 3.585e-03 mprec@3: 2.216e-02 mprec@5: 4.557e-02
+modelsize=62M
+
+f = 0.075
+Total time taken is 10.775190 seconds 
+prec@1: 0.813 prec@3: 0.694 prec@5: 0.592
+mprec@1: 3.006e-03 mprec@3: 2.206e-02 mprec@5: 4.757e-02
+model size = 59M
+
+f=0.078
+Total time taken is 11.023432 seconds 
+prec@1: 0.823 prec@3: 0.693 prec@5: 0.592
+mprec@1: 3.698e-03 mprec@3: 2.244e-02 mprec@5: 4.537e-02
+modeslsize=56M
+
+f=0.085
+Total time taken is 10.801472 seconds 
+prec@1: 0.819 prec@3: 0.691 prec@5: 0.590
+mprec@1: 3.301e-03 mprec@3: 2.141e-02 mprec@5: 4.589e-02
+modelsize=50M
+
+f=0.085 w=100
+Total time taken is 10.297796 seconds 
+prec@1: 0.816 prec@3: 0.689 prec@5: 0.590
+mprec@1: 3.691e-03 mprec@3: 2.138e-02 mprec@5: 4.479e-02
+modelsize=51M
+
+f=0.1
+Total time taken is 10.109657 seconds 
+prec@1: 0.815 prec@3: 0.691 prec@5: 0.591
+mprec@1: 3.726e-03 mprec@3: 2.288e-02 mprec@5: 4.447e-02
+modelsize = 41M
+
+f =0.125
+Total time taken is 10.517075 seconds 
+prec@1: 0.811 prec@3: 0.693 prec@5: 0.589
+mprec@1: 3.285e-03 mprec@3: 2.198e-02 mprec@5: 4.524e-02
+modelsize=30M
+
+f=0.15
+Total time taken is 10.147000 seconds 
+prec@1: 0.811 prec@3: 0.695 prec@5: 0.589
+mprec@1: 3.804e-03 mprec@3: 2.091e-02 mprec@5: 4.219e-02
+modelsize=23M
+
